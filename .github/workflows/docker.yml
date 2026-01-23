@@ -1,4 +1,4 @@
-name: Lab4 Docker CI/CD
+name: Lab4 Docker Build and Push
 
 on:
   push:
